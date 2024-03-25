@@ -1,0 +1,58 @@
+Custom Vision Model(what information needed)
+sentiment value
+Feature selection
+Evaluation of the regression models
+Compute Instance and Compute Clusters
+AKS clusters Instacnes
+Unsupervides learning and supervised learning
+Form Recognizer supports
+ideal value for AUC
+
+
+AI document Intelligence
+Metrics for Model performance
+Azure ML designer
+Automated ML
+
+----
+Feature Engineering and feature selection
+Custom Vision
+
+
+
+---------------
+Named Entity Recognition - subtask of information(dates, loaction) extraction in natural language processing(unstructured text).
+Key phrase extraction - identifying and extracting the most important and relevant phrases or keywords from a given text
+Image classification - assigning a single label to an entire image
+Object detection - detect and localize multiple objects within an image(bounding box), find the Location with image.
+OCR - extracts text from images
+Semantic segmentation - assigns a class label to each pixel in an image
+Feature engineering - To generate additional features
+Feature Selection - To eliminate irrevelent information
+Scene segmentation - Determines a scene changes in video based on visual cues
+
+Fairness: Ensuring equal treatment and avoiding bias.
+Reliability and Safety: Being accurate, reliable, and safe to use, Missing , unusual values.
+Privacy and Security: Respecting and protecting personal information.
+Inclusiveness: Considering the needs of all individuals, impairments.
+Transparency: Being open and explainable, decision making, record.
+Accountability: Taking responsibility for actions, governance, standards.
+
+Image classification metric - Confidence
+
+Metric Evaluation:
+Regression (R) - Coefficient of determination(R2), Root mean squared error(RMSE), Mean Absolute Error(MAE), Mean Squared Error(MSE)
+Classification - Accuracy, Recall, Precision, F1 score,True positive rate, AUC
+Clustering - Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index, Dunn's Index
+
+Formula:
+Recall = TP / (TP + FN)
+Precision = TP / (TP + FP)
+Accuracy = (TP + TN) / (TP + TN + FP + FN)
+F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+
+
+Metric for Custom Vision - precision, Average precision(AP), Recall 	
+Describe the images - o generate automatic captions for digital photographs
+Named Entity Recognition (NER) - ability to identify different entities in text and categorize them into pre-defined classes
+
